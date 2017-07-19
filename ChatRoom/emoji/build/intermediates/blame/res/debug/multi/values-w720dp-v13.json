@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\huahua\\Desktop\\Android\\ChatRoom\\emoji\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w720dp-v13\\values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "C:\\Users\\huahua\\.android\\build-cache\\7906e81f7cb7c18ab1fd22e971cde14ef6b2a63d\\output\\res\\values-w720dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 76,
+                        "endOffset": 365
+                    }
+                }
+            }
+        ]
+    }
+]

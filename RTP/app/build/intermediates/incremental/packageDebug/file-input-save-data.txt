@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Sun Jul 16 22:56:48 CST 2017
+2.base=C\:\\Users\\huahua\\Desktop\\Android\\RTP\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2dee94a094085717084b789bd97ea25d14bcac6f
+5.file=C\:\\Users\\huahua\\Desktop\\Android\\RTP\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\huahua\\Desktop\\Android\\RTP\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\huahua\\Desktop\\Android\\RTP\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\folders\\2\\1f\\main\\jlibrtp\\README.txt
+2.set=DEX
+4.base=C\:\\Users\\huahua\\Desktop\\Android\\RTP\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\huahua\\Desktop\\Android\\RTP\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b80816640ad3ffb6a61e6cbcb21694b5b0360c20\\classes.dex
+7.set=DEX
+count=8
+0.file=C\:\\Users\\huahua\\Desktop\\Android\\RTP\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=C\:\\Users\\huahua\\Desktop\\Android\\RTP\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\huahua\\Desktop\\Android\\RTP\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\folders\\2\\1f\\main
+1.file=C\:\\Users\\huahua\\Desktop\\Android\\RTP\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi\\libaudiowrapper.so
+1.set=NATIVE_RESOURCE
+7.base=C\:\\Users\\huahua\\Desktop\\Android\\RTP\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b80816640ad3ffb6a61e6cbcb21694b5b0360c20
+2.file=C\:\\Users\\huahua\\Desktop\\Android\\RTP\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2dee94a094085717084b789bd97ea25d14bcac6f\\classes.dex
+6.set=JAVA_RESOURCE
+0.base=C\:\\Users\\huahua\\Desktop\\Android\\RTP\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\huahua\\Desktop\\Android\\RTP\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\huahua\\Desktop\\Android\\RTP\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+4.file=C\:\\Users\\huahua\\Desktop\\Android\\RTP\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.set=ANDROID_RESOURCE

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\huahua\\Desktop\\Android\\ChatRoom\\emoji\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "C:\\Users\\huahua\\.android\\build-cache\\7906e81f7cb7c18ab1fd22e971cde14ef6b2a63d\\output\\res\\values-xlarge-land-v4\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 63,
+                        "endOffset": 358
+                    }
+                }
+            }
+        ]
+    }
+]

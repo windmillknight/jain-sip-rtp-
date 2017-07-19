@@ -1,0 +1,7 @@
+#Tue Jul 18 18:04:51 CST 2017
+base.0=C\:\\Users\\huahua\\Desktop\\Android\\RTP\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2dee94a094085717084b789bd97ea25d14bcac6f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\huahua\\Desktop\\Android\\RTP\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b80816640ad3ffb6a61e6cbcb21694b5b0360c20\\classes.dex
+base.1=C\:\\Users\\huahua\\Desktop\\Android\\RTP\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b80816640ad3ffb6a61e6cbcb21694b5b0360c20
+file.0=C\:\\Users\\huahua\\Desktop\\Android\\RTP\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2dee94a094085717084b789bd97ea25d14bcac6f\\classes.dex
